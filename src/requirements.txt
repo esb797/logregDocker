@@ -1,7 +1,0 @@
-sklearn
-flask
-applicationinsights
-joblib
-pytest
-pytest-cov
-pyinstrument
